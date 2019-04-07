@@ -1,6 +1,6 @@
 # Google Cloud Functions with Node.js and Express
 
-_Check out the [Medium article](https://medium.com) on this repo for a detailed explanation on how to create and deploy an Express app on Google Cloud Functions._
+_Check out the [Medium article](https://medium.com/@wesleyjmhaigh/google-cloud-functions-node-js-and-express-aea4a2a9ba3a) on this repo for a detailed explanation on how to create and deploy an Express app on Google Cloud Functions._
 
 ## Run locally
 
